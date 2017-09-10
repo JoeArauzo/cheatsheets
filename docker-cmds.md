@@ -1,4 +1,4 @@
-```
+```Dockerfile
 docker stack ls                                                 # List stacks or apps
 docker stack deploy -c <composefile> <appname>       # Run the specified Compose file
 docker service ls                      # List running services associated with an app
